@@ -1,0 +1,9 @@
+D:\Hausübungen\apr\quiz\quiz\quiz\obj\Debug\quiz.csprojAssemblyReference.cache
+D:\Hausübungen\apr\quiz\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+D:\Hausübungen\apr\quiz\quiz\quiz\bin\Debug\quiz.exe.config
+D:\Hausübungen\apr\quiz\quiz\quiz\bin\Debug\quiz.exe
+D:\Hausübungen\apr\quiz\quiz\quiz\bin\Debug\quiz.pdb
+D:\Hausübungen\apr\quiz\quiz\quiz\bin\Debug\quiz.core-v17.dll
+D:\Hausübungen\apr\quiz\quiz\quiz\obj\Debug\quiz.csproj.CopyComplete
+D:\Hausübungen\apr\quiz\quiz\quiz\obj\Debug\quiz.exe
+D:\Hausübungen\apr\quiz\quiz\quiz\obj\Debug\quiz.pdb
